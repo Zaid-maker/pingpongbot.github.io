@@ -3,11 +3,7 @@
     width: 99%;
     background-image: linear-gradient(360deg, #adb5bd, #f8f9fa);
 }
-h1 {
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
-}
+
 p {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -25,4 +21,14 @@ li{
 img {
     display: block;
     margin: auto;
+}
+.btn-danger {
+    color: white;
+    background-color: #b21f2d;
+    border-color: #b21f2d;
+}
+div {
+	vertical-align: middle;
+	text-align: center;
+	padding-top: 7%;
 }
