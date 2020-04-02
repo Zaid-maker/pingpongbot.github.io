@@ -1,0 +1,16 @@
+.background-gradient {
+    height: 125vh;
+    width: 99%;
+    background-image: linear-gradient(360deg, #adb5bd, #f8f9fa);
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
