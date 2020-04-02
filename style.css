@@ -5,7 +5,8 @@
 }
 
 p {
-    font-family: 'Courier New', Courier, monospace;
+    padding: 2%;
+    font-weight: 700;
     text-align: center;
     font-size: 25px;
 }
@@ -21,6 +22,7 @@ li{
 img {
     display: block;
     margin: auto;
+    border-radius: 140px;
 }
 .btn-danger {
     color: white;
@@ -30,5 +32,5 @@ img {
 div {
 	vertical-align: middle;
 	text-align: center;
-	padding-top: 7%;
+	padding-top: 4%;
 }
