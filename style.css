@@ -32,5 +32,8 @@ img {
 div {
 	vertical-align: middle;
 	text-align: center;
-	padding-top: 4%;
+	padding-top: 3%;
+}
+footer {
+    padding: 3%;
 }
